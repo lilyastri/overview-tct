@@ -22,4 +22,4 @@ Daftar Repo
 | Pertemuan 11  | [tct-docker-lily](https://github.com/lilyastri/tct-docker-lily)	| 30 November 2018	| Mengetahui tentang Docker dan mengenal perintah-perintah docker-lily				|
 | Pertemuan 12  | [tct-docker2-lily](https://github.com/lilyastri/tct-docker2-lily)	| 07 Desember 2018	| Belajar dan mengerjakan simulasi Docker											|
 | Pertemuan 13  | [tct](https://github.com/lilyastri/tct)							| 14 Desember 2018	| Melengkapi dari repo-repo sebelumnya												|
-| Pertemuan 14	| 
+| Pertemuan 14	| [overview-tct](https://github.com/lilyastri/overview-tct/blob/master/README.md)	| 21 Desember 2018	| membuat repo everview	|
